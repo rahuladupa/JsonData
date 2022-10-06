@@ -1,0 +1,78 @@
+{
+    "Beauty":{
+        "MakeUp":[
+            {"id":1, "name":"Lipstick"},
+            {"id":2, "name":"Lip Gloss"},
+            {"id":3, "name":"Lip Liner"},
+            {"id":4, "name":"Mascara"},
+            {"id":5, "name":"Eyeliner"},
+            {"id":6, "name":"Kajal"},
+            {"id":7, "name":"Eyeshadow"},
+            {"id":8, "name":"Foundation"},
+            {"id":9, "name":"Primer"},
+            {"id":10, "name":"Concealer"},
+            {"id":10, "name":"Compact"},
+            {"id":11, "name":"Nail Polish"}
+    ],
+    "Skincare, Bath & Body":[
+        {"id":1, "name":"Face Moisturiser"},
+        {"id":2, "name":"Cleanser"},
+        {"id":3, "name":"Masks & Peel"},
+        {"id":4, "name":"Sunscreen"},
+        {"id":5, "name":"Serum"},
+        {"id":6, "name":"Face Wash"},
+        {"id":7, "name":"Eye Cream"},
+        {"id":8, "name":"Lip Balm"},
+        {"id":9, "name":"Body Lotion"},
+        {"id":10, "name":"Body Wash"},
+        {"id":11, "name":"Body Scrub"},
+        {"id":12, "name":"Hand Cream"}
+    ],
+    "Hair Care":[
+        {"id":1,"name":"Shampoo"},
+        {"id":2,"name":"Conditioner"},
+        {"id":3,"name":"Hair Cream"},
+        {"id":4,"name":"Hair Oil"},
+        {"id":5,"name":"Hair Gel"},
+        {"id":6,"name":"Hair Color"},
+        {"id":7,"name":"Hair Serum"},
+        {"id":8,"name":"Hair Accessory"}
+    ],
+    "Fragrances":[
+        {"id":1,"name":"Perfume"},
+        {"id":2,"name":"Deodorant"},
+        {"id":3,"name":"Body Mist"}
+    ],
+    "Appliances":[
+        {"id":1,"name":"Hair Straightener"},
+        {"id":2,"name":"Hair Dryer"},
+        {"id":3,"name":"Epilator"}
+    ],
+    "Men's Grooming":[
+        {"id":1,"name":"Trimmers"},
+        {"id":2,"name":"Beard Oil"},
+        {"id":3,"name":"Hair Wax"}
+    ],
+    "Beauty Gift & Makeup Set":[
+        {"id":1,"name":"Beauty Gift"},
+        {"id":2,"name":"Makeup Kit"}
+    ],
+     "Top Brands":[
+        {"id":1,"name":"Lakme"},
+        {"id":2,"name":"Maybelline"},
+        {"id":3,"name":"LOreal"},
+        {"id":4,"name":"Philips"},
+        {"id":5,"name":"Bath & Body Works"},
+        {"id":6,"name":"THE BODY SHOP"},
+        {"id":7,"name":"Biotique"},
+        {"id":8,"name":"Mamaearth"},
+        {"id":9,"name":"MCaffeine"},
+        {"id":10,"name":"Nivea"},
+        {"id":11,"name":"Lotus Herbals"},
+        {"id":12,"name":"LOreal Professionnel"},
+        {"id":13,"name":"KAMA AYURVEDA"},
+        {"id":14,"name":"M.A.C"},
+        {"id":15,"name":"Forest Essentials"}
+    ]
+        }
+}

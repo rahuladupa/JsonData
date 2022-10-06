@@ -1,0 +1,70 @@
+{
+    "kids":{
+        "Boys Clothing":[
+            {"id":1, "name":"T-Shirts"},
+            {"id":2, "name":"Shirts"},
+            {"id":3, "name":"Shorts"},
+            {"id":4, "name":"Jeans"},
+            {"id":5, "name":"Trousers"},
+            {"id":6, "name":"Clothing Sets"},
+            {"id":7, "name":"Ethnic Wear"},
+            {"id":8, "name":"Track Pants & Pyjamas"},
+            {"id":9, "name":"Jacket, Sweater & Sweatshirts"},
+            {"id":10, "name":"Party Wear"},
+            {"id":11, "name":"Innerwear & Thermals"},
+            {"id":12, "name":"Nightwear & Loungewear"},
+            {"id":13, "name":"Value Packs"}
+    ],
+    "Girls Clothing":[
+        {"id":1, "name":"Dresses"},
+        {"id":2, "name":"Tops"},
+        {"id":3, "name":"Tshirts"},
+        {"id":4, "name":"Clothing Sets"},
+        {"id":5, "name":"Lehenga choli"},
+        {"id":6, "name":"Kurta Sets"},
+        {"id":7, "name":"Party wear"},
+        {"id":8, "name":"Dungarees & Jumpsuits"},
+        {"id":9, "name":"Skirts & shorts"},
+        {"id":10, "name":"Tights & Leggings"},
+        {"id":11, "name":"Jeans, Trousers & Capris"},
+        {"id":12, "name":"Jacket, Sweater & Sweatshirts"},
+        {"id":13, "name":"Nightwear & Loungewear"},
+        {"id":14, "name":"Value Packs"}
+    ],
+    "Footwear":[
+        {"id":1,"name":"Casual Shoes"},
+        {"id":2,"name":"Flipflops"},
+        {"id":3,"name":"Sports Shoes"},
+        {"id":4,"name":"Flats"},
+        {"id":5,"name":"Sandals"},
+        {"id":6,"name":"Heels"},
+        {"id":7,"name":"School Shoes"},
+        {"id":8,"name":"Socks"}
+    ],
+    "Toys":[
+        {"id":1,"name":"Learning & Development"},
+        {"id":2,"name":"Activity Toys"},
+        {"id":3,"name":"Soft Toys"},
+        {"id":4,"name":"Action Figure / Play set"}
+    ],
+    "Infants":[
+        {"id":1,"name":"Bodysuits"},
+        {"id":2,"name":"Rompers & Sleepsuits"},
+        {"id":3,"name":"Clothing Sets"},
+        {"id":4,"name":"Tshirts & Tops"},
+        {"id":5,"name":"Dresses"},
+        {"id":6,"name":"Bottom wear"},
+        {"id":7,"name":"Winter Wear"},
+        {"id":8,"name":"Innerwear & Sleepwear"},
+        {"id":9,"name":"Infant Care"}
+    ],
+    "Kids Accessories":[
+        {"id":1,"name":"Bags & Backpacks"},
+        {"id":2,"name":"Watches"},
+        {"id":3,"name":"Jewellery & Hair accessory"},
+        {"id":4,"name":"Sunglasses"},
+        {"id":5,"name":"Masks & Protective Gears"},
+        {"id":6,"name":"Caps & Hats"}
+    ]
+        }
+}

@@ -1,0 +1,97 @@
+{
+    "Home & Living":{
+        "Bed Linen & Furnishing":[
+            {"id":1, "name":"Bed Runners"},
+            {"id":2, "name":"Mattress Protectors"},
+            {"id":3, "name":"Bedsheets"},
+            {"id":4, "name":"Bedding Sets"},
+            {"id":5, "name":"Blankets, Quilts & Dohars"},
+            {"id":6, "name":"Pillows & Pillow Covers"},
+            {"id":7, "name":"Bed Covers"},
+            {"id":8, "name":"Diwan Sets"},
+            {"id":9, "name":"Chair Pads & Covers"},
+            {"id":10, "name":"Sofa Covers"}
+    ],
+    "Flooring":[
+        {"id":1, "name":"Floor Runners"},
+        {"id":2, "name":"Carpets"},
+        {"id":3, "name":"Floor Mats & Dhurries"},
+        {"id":4, "name":"Door Mats"}
+    ],
+    "Bath":[
+        {"id":1,"name":"Bath Towels"},
+        {"id":2,"name":"Hand & Face Towels"},
+        {"id":3,"name":"Beach Towels"},
+        {"id":4,"name":"Towels Set"},
+        {"id":5,"name":"Bath Rugs"},
+        {"id":6,"name":"Bath Robes"},
+        {"id":7,"name":"Bathroom Accessories"},
+        {"id":8,"name":"Shower Curtains"}
+    ],
+    "Lamps & Lighting":[
+        {"id":1,"name":"Floor Lamps"},
+        {"id":2,"name":"Ceiling Lamps"},
+        {"id":3,"name":"Table Lamps"},
+        {"id":4,"name":"Wall Lamps"},
+        {"id":5,"name":"Outdoor Lamps"},
+        {"id":6,"name":"String Lights"}
+    ],
+    "Home Décor":[
+        {"id":1,"name":"Plants & Planters"},
+        {"id":2,"name":"Aromas & Candles"},
+        {"id":3,"name":"Clocks"},
+        {"id":4,"name":"Mirrors"},
+        {"id":5,"name":"Wall Décor"},
+        {"id":6,"name":"Festive Decor"},
+        {"id":7,"name":"Pooja Essentials"},
+        {"id":8,"name":"Wall Shelves"},
+        {"id":9,"name":"Fountains"},
+        {"id":10,"name":"Showpieces & Vases"},
+        {"id":11,"name":"Ottoman"}
+    ],
+    "Kitchen & Table":[
+        {"id":1,"name":"Table Runners"},
+        {"id":2,"name":"Dinnerware & Serveware"},
+        {"id":3,"name":"Cups and Mugs"},
+        {"id":4,"name":"Bakeware & Cookware"},
+        {"id":5,"name":"Kitchen Storage & Tools"},
+        {"id":6,"name":"Bar & Drinkware"},
+        {"id":7,"name":"Table Covers & Furnishings"}
+    ],
+    "Storage":[
+        {"id":1,"name":"Bins"},
+        {"id":2,"name":"Hangers"},
+        {"id":3,"name":"Organisers"},
+        {"id":4,"name":"Hooks & Holders"},
+        {"id":5,"name":"Laundry Bags"}
+    ],
+     "Brands":[
+        {"id":1,"name":"H&M"},
+        {"id":2,"name":"Home Centre"},
+        {"id":3,"name":"Spaces"},
+        {"id":4,"name":"D'Decor"},
+        {"id":5,"name":"Story@Home"},
+        {"id":6,"name":"Pure Home & Living"},
+        {"id":7,"name":"Swayam"},
+        {"id":8,"name":"Raymond Home"},
+        {"id":9,"name":"Maspar"},
+        {"id":10,"name":"Trident"},
+        {"id":11,"name":"Cortina"},
+        {"id":12,"name":"Random"},
+        {"id":13,"name":"Ellementry"},
+        {"id":14,"name":"ROMEE"},
+        {"id":15,"name":"SEJ by Nisha Gupta"}
+    ],
+    "Gadgets":[
+       {"id":1,"name":"Smart Wearables"},
+       {"id":2,"name":"Fitness Gadgets"},
+       {"id":3,"name":"Headphones"},
+       {"id":4,"name":"Speakers"}
+   ],
+   "Jewellery":[
+      {"id":1,"name":"Fashion Jewellery"},
+      {"id":2,"name":"Fine Jewellery"},
+      {"id":3,"name":"Earrings"}
+  ]
+        }
+}

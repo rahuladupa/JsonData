@@ -1,0 +1,83 @@
+{
+    "women":{
+        "Indian & Fusion Wear":[
+            {"id":1, "name":"Kurtas & Suits"},
+            {"id":2, "name":"Kurtis, Tunics & Tops"},
+            {"id":3, "name":"Sarees"},
+            {"id":4, "name":"Ethnic Wear"},
+            {"id":5, "name":"Leggings, Salwars & Churidars"},
+            {"id":6, "name":"Skirts & Palazzos"},
+            {"id":7, "name":"Dress Materials"},
+            {"id":8, "name":"Lehenga Cholis"},
+            {"id":9, "name":"Dupattas & Shawls"},
+            {"id":10, "name":"Jackets"}
+    ],
+    "Western Wear":[
+        {"id":1, "name":"Dresses"},
+        {"id":2, "name":"Tops"},
+        {"id":3, "name":"Tshirts"},
+        {"id":4, "name":"Jeans"},
+        {"id":5, "name":"Trousers & Capris"},
+        {"id":6, "name":"Shorts & Skirts"},
+        {"id":7, "name":"Co-ords"},
+        {"id":8, "name":"Playsuits"},
+        {"id":9, "name":"Jumpsuits"},
+        {"id":10, "name":"Shrugs"},
+        {"id":11, "name":"Sweaters & Sweatshirts"},
+        {"id":12, "name":"Jackets & Coats"},
+        {"id":13, "name":"Blazers & Waistcoats"}
+    ],
+    "Footwear":[
+        {"id":1,"name":"Flats"},
+        {"id":2,"name":"Casual Shoes"},
+        {"id":3,"name":"Heels"},
+        {"id":4,"name":"Boots"},
+        {"id":5,"name":"Sports Shoes & Floaters"}
+    ],
+    "Sports & Active Wear":[
+        {"id":1,"name":"Briefs & Trunks"},
+        {"id":2,"name":"Boxers"},
+        {"id":3,"name":"Vests"},
+        {"id":4,"name":"Sleepwear & Loungewear"},
+        {"id":5,"name":"Thermals"}
+    ],
+    "FootWear":[
+        {"id":1,"name":"Clothing"},
+        {"id":2,"name":"Footwear"},
+        {"id":3,"name":"Sports Accessories"},
+        {"id":4,"name":"Sports Equipment"}
+    ],
+    "Lingerie & Sleepwear":[
+        {"id":1,"name":"Bra"},
+        {"id":2,"name":"Briefs"},
+        {"id":3,"name":"Shapewear"},
+        {"id":4,"name":"Sleepwear & Loungewear"},
+        {"id":5,"name":"Swimwear"},
+        {"id":6,"name":"Camisoles & Thermals"}
+    ],
+    "Beauty & Personal Care":[
+        {"id":1,"name":"Smart Wearables"},
+        {"id":2,"name":"Fitness Gadgets"},
+        {"id":3,"name":"Headphones"},
+        {"id":4,"name":"Speakers"}
+    ],
+     "Fashion Accessories":[
+        {"id":1,"name":"Makeup"},
+        {"id":2,"name":"Skincare"},
+        {"id":3,"name":"Premium Beauty"},
+        {"id":4,"name":"Lipsticks"},
+        {"id":5,"name":"Fragrances"}
+    ],
+    "Gadgets":[
+       {"id":1,"name":"Smart Wearables"},
+       {"id":2,"name":"Fitness Gadgets"},
+       {"id":3,"name":"Headphones"},
+       {"id":4,"name":"Speakers"}
+   ],
+   "Jewellery":[
+      {"id":1,"name":"Fashion Jewellery"},
+      {"id":2,"name":"Fine Jewellery"},
+      {"id":3,"name":"Earrings"}
+  ]
+        }
+}

@@ -1,0 +1,74 @@
+{
+    "men":{
+        "topwear":[
+            {"id":1, "name":"t-shirts"},
+            {"id":2, "name":"Casusal Shirts"},
+            {"id":3, "name":"Formal Shirts"},
+            {"id":4, "name":"SweatShirts"},
+            {"id":5, "name":"Sweaters"},
+            {"id":6, "name":"Jackets"},
+            {"id":7, "name":"Blazer & Coats"},
+            {"id":8, "name":"Suits"},
+            {"id":9, "name":"Rain Jackets"}
+    ],
+    "Indian & Festive Wear":[
+        {"id":1, "name":"Kurtas & Kurta Sets"},
+        {"id":2, "name":"Sherwanis"},
+        {"id":3, "name":"Nehru Jackets"},
+        {"id":4, "name":"Dhotis"}
+    ],
+    "bottomwear":[
+        {"id":1,"name":"jeans"},
+        {"id":2,"name":"Casual Trousers"},
+        {"id":3,"name":"Formal Trousers"},
+        {"id":4,"name":"Shorts"},
+        {"id":5,"name":"Track Pants & Joggers"}
+    ],
+    "Innerwear & sleepwear":[
+        {"id":1,"name":"Briefs & Trunks"},
+        {"id":2,"name":"Boxers"},
+        {"id":3,"name":"Vests"},
+        {"id":4,"name":"Sleepwear & Loungewear"},
+        {"id":5,"name":"Thermals"}
+    ],
+    "FootWear":[
+        {"id":1,"name":"Casual Shoes"},
+        {"id":2,"name":"Sports Shoes"},
+        {"id":3,"name":"Formal Shoes"},
+        {"id":4,"name":"Sneakers"},
+        {"id":5,"name":"Sandals & Floaters"},
+        {"id":6,"name":"Flip Flops"},
+        {"id":7,"name":"Socks"}
+    ],
+    "Sports & Active Wear":[
+        {"id":1,"name":"Sports Shoes"},
+        {"id":2,"name":"Sports Sandals"},
+        {"id":3,"name":"Active T-Shirts"},
+        {"id":4,"name":"Track Pants & Shorts"},
+        {"id":5,"name":"Tracksuits"},
+        {"id":6,"name":"Jackets & Sweatshirts"},
+        {"id":7,"name":"Sports Accessories"},
+        {"id":8,"name":"Swimwear"}
+    ],
+    "Gadgets":[
+        {"id":1,"name":"Smart Wearables"},
+        {"id":2,"name":"Fitness Gadgets"},
+        {"id":3,"name":"Headphones"},
+        {"id":4,"name":"Speakers"}
+    ],
+     "Fashion Accessories":[
+        {"id":1,"name":"Wallets"},
+        {"id":2,"name":"Belts"},
+        {"id":3,"name":"Perfumes & Body Mists"},
+        {"id":4,"name":"Trimmers"},
+        {"id":5,"name":"Deodorants"},
+        {"id":6,"name":"Ties, Cufflinks & Pocket Squares"},
+        {"id":7,"name":"Accessory Gift Sets"},
+        {"id":8,"name":"Caps & Hats"},
+        {"id":9,"name":"Mufflers, Scarves & Gloves"},
+        {"id":10,"name":"Phone Cases"},
+        {"id":11,"name":"Rings & Wristwear"},
+        {"id":11,"name":"Helmets"}
+    ]
+        }
+}
